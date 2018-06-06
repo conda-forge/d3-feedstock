@@ -20,12 +20,15 @@ freedom to design the right visual interface for your data.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/d3-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/d3-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/d3-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/d3-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/d3/badges/version.svg)](https://anaconda.org/conda-forge/d3)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/d3/badges/downloads.svg)](https://anaconda.org/conda-forge/d3)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-d3-green.svg)](https://anaconda.org/conda-forge/d3) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/d3.svg)](https://anaconda.org/conda-forge/d3) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/d3.svg)](https://anaconda.org/conda-forge/d3) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/d3.svg)](https://anaconda.org/conda-forge/d3) |
 
 Installing d3
 =============
