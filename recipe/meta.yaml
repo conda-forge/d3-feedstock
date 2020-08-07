@@ -1,6 +1,6 @@
 {% set name = "d3" %}
-{% set version = "5.15.0" %}
-{% set sha256 = "ed62426a77de2192ec262da859fccd2dd2bd69e818eb90e71159b9ddb57560c3" %}
+{% set version = "5.16.0" %}
+{% set sha256 = "3c7b92b2a22038020a278ef13203a0387549085bdbfd4130c34a7503c00185e8" %}
 
 package:
   name: {{ name|lower }}
@@ -20,20 +20,20 @@ build:
 requirements:
   build:
     - nodejs
-    
+
 test:
   commands:
     - npm list -g d3
   requires:
     - nodejs
-   
+
 
 about:
   home: https://github.com/d3/d3
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE
-  summary: 'Bring data to life with SVG, Canvas and HTML.'
+  summary: Bring data to life with SVG, Canvas and HTML.
   description: |
     D3 (or D3.js) is a JavaScript library for visualizing data using 
     web standards. D3 helps you bring data to life using SVG, Canvas 
