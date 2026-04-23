@@ -5,7 +5,7 @@ Home: https://github.com/d3/d3
 
 Package license: BSD-3-Clause
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Bring data to life with SVG, Canvas and HTML.
 
